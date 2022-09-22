@@ -19,6 +19,11 @@ As soon as possible, I will organize the rest of them.⛏<br><br><br>
 <br><br>
 <div align="center">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=react query&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+</div><br>
+<div align="center">
 </div>
 <div align="center"><h3>⚡Currently learning⚡</h3></div>
 <br><br><br>
