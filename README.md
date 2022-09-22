@@ -1,8 +1,13 @@
 <br><br><br>
 <div align="center"><h1>Hi I am Solarthenomad</h1></div>
 <br><br>
-<div align="center">![](https://user-images.githubusercontent.com/93020734/191649851-0cab26d6-d698-4d60-ba32-0faac86d78c0.png)
+<div align="center">
+  짤을 올릴 예정입니당
 </div>
+<br><br><br>
+<div align"center"><h2>🛠My tech stack🛠</h2></div>
+<br><br>
+<
 
 <!--
 **Solarthenomad/Solarthenomad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
