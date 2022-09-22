@@ -1,12 +1,12 @@
 <br><br><br>
 <div align="center"><h1>Hi I am Solarthenomad</h1></div>
-<br><br>
+<br><br><br><br>
 <div align="center">
   짤을 올릴 예정입니당
 </div>
 <br><br><br>
 <div align="center"><h2>🛠My tech stack🛠</h2></div>
-<br><br>
+<br><br><br><br>
 <img src= "![image](https://user-images.githubusercontent.com/93020734/191665769-b64c6a25-ef6d-4132-a81f-e6154abb7a97.gif)
 " alt="움짤" title = "solarthenomad">
 
