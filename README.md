@@ -11,7 +11,7 @@
 " alt="움짤" title = "solarthenomad">
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SolartheNomad&show_icons=true&theme=radical)
+
 
 <!--
 **Solarthenomad/Solarthenomad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
