@@ -8,7 +8,7 @@
 Hi there!😀 I'm developer currently using React.js and React native🚀<br>
 Sometimes I develop python and php. But I prefer JAVA😎<br>
 <br><br>
-👩‍💻I study computer science and physics education in my uni🏫<br>
+👩‍💻I study computer science in my uni🏫<br>
 ✨Now I feel interesting about Cloud Computing like Azure, AWS☁<br>
 ✨and Computer Network system design🌈<br>
 <br><br>
