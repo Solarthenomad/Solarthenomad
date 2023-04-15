@@ -2,7 +2,7 @@
 <br><br>
 
 <div align="center">
-    <img width="350" alt="화면 캡처 2023-04-15 212033" src="https://user-images.githubusercontent.com/93020734/232223220-87ad7b2d-486f-4904-8829-49e0cdcbb5fe.png">
+    교육으로 세상을 바꾸고 싶은 Solarthenomad의 
 </div>
 <br>
 
