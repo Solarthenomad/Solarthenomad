@@ -2,6 +2,7 @@
 <br><br>
 <div align="center">
   <b> 교육으로 세상을 바꾸고 싶은 💙Solar💙입니다. </b>
+  <img width="107" alt="화면 캡처 2023-04-15 212033" src="https://user-images.githubusercontent.com/93020734/232223220-87ad7b2d-486f-4904-8829-49e0cdcbb5fe.png">
  
 
 </div>
