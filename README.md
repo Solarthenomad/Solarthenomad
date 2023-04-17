@@ -2,7 +2,7 @@
 <br><br>
 
 <div align="center">
-    교육으로 세상을 바꾸고 싶은 Solarthenomad의 
+    교육으로 세상을 바꾸고 싶은 Solarthenomad의 깃허브입니다.
 </div>
 <br>
 
