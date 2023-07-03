@@ -67,9 +67,10 @@
 |2023.02~2023.03|밤편지 서비스 Twinkle|채팅 구현, UI 설계|
 |2023.02~현재|SUA 웹해킹 프로젝트|기능 구현 중, PHP&DJANGO 각각 구축|
 
+![](./profile-3d-contrib/profile-green-animate.svg)
 
   </span>
-![](./profile-3d-contrib/profile-green-animate.svg)
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)  
   
   <!--
