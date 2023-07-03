@@ -45,7 +45,7 @@
 
 <div align="center"><h2>🌙CodeStack</h2></div>
 
-![](./profile-3d-contrib/profile-3d-contrib/profile-night-rainbow.svg
+![](./profile-3d-contrib/profile-night-rainbow.svg
 )
 
 <br><br><br>
