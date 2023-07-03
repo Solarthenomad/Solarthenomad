@@ -42,9 +42,10 @@
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black" style="border-color:black;"/>
 </div>
 <br><br><br>
-<div align="center"><h2>🐣Me🐣</h2></div>
- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSolarthenomad&count_bg=%23240DDE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black" style="border-color:black;"/>
+
+<div align="center"><h2>🌙CodeStack</h2></div>
+
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 <br><br><br>
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solarthenomad&layout=compact"></span>
@@ -67,7 +68,7 @@
 |2023.02~2023.03|밤편지 서비스 Twinkle|채팅 구현, UI 설계|
 |2023.02~현재|SUA 웹해킹 프로젝트|기능 구현 중, PHP&DJANGO 각각 구축|
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+
 
   </span>
 
